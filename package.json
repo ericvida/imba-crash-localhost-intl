@@ -1,0 +1,19 @@
+{
+  "name": "error-server-crash",
+  "scripts": {
+    "start": "imba -w server.imba",
+    "build": "imba build server.imba"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "imba": "^2.0.0-alpha.133"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.22"
+  },
+  "description": "",
+  "version": "1.0.0",
+  "homepage": "https://github.com//error-server-crash",
+  "author": "Author Name (https://github.com/)",
+  "license": "ISC"
+}
